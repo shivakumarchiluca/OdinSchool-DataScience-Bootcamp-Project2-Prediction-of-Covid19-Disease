@@ -1,0 +1,1 @@
+# OdinSchool-DataScience-Bootcamp-Project2-Prediction-of-Covid19-Disease
